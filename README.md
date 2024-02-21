@@ -2,7 +2,7 @@
 src="https://github.com/nepito/world_cup_semis/blob/develop/img/logo.jpeg" align="right" width="256"
 /></a>
 
-# Template for R projects
+# Objetivo Analista
 [![codecov](https://codecov.io/gh/niesfutbol/objetivo_analista/graph/badge.svg?token=83MS0KCKCU)](https://codecov.io/gh/niesfutbol/objetivo_analista)
 ![licencia](https://img.shields.io/github/license/niesfutbol/objetivo_analista)
 ![languages](https://img.shields.io/github/languages/top/niesfutbol/objetivo_analista)
